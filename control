@@ -1,0 +1,9 @@
+Package: com.pxx917144686.flex
+Name: FLEX_Pro
+Maintainer: pxx917144686
+Version: 1.0.3
+Architecture: arm64
+Description: FLEX调试
+Author: FLEX Team & pxx917144686
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
